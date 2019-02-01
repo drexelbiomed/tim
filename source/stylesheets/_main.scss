@@ -156,8 +156,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 img.left {
-  padding-right: 1em;
-  padding-bottom: .5em;
+  padding-right: 1.5em;
+  padding-bottom: 1em;
+}
+
+img.right {
+  padding-left: 1.5em;
+  padding-bottom: 1em;
 }
 
 ol {
@@ -170,4 +175,12 @@ ul.unstyled {
   li {
     list-style: none;
   }
+}
+
+.big-text {
+  font-size: 120%;
+}
+
+.pi-name {
+  font-size: 24px;
 }
