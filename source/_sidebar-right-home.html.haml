@@ -1,5 +1,28 @@
 .home-panel
-  %h3 About
+  %h3 Recent News
   %ul.unstyled
-    %li The primary focus of research in our lab is to understand how the brain encodes sensory information and integrates this to produce intelligent motor output. We want to be able to use this knowledge to investigate changes in network activity under conditions of neural injury or dysfunction.
-  = link_to "About", "about", class: "more-link"
+    %li 
+      %strong January, 2019 
+      %br
+      We are excited to announce 
+      = link_to "positions are available", "#{http_prefix}Recruiting Announcement.pdf" 
+      at all levels starting in the Fall of 2019.
+  = link_to "More News", "#{http_prefix}news/recent", class: "more-link"
+
+.home-panel
+  %h3 Recent Publications
+  %ul.unstyled
+    %li 
+      %strong A Supramolecular Nanocarrier for Delivery of Amiodarone Anti-Arrhythmic Therapy to the Heart
+      %br
+      %em Bioconjugate Chemistry
+      %br
+      2019
+    %li 
+      %strong Quantitative imaging of tumor associated macrophages and their response to therapy using 64Cu- labeled Macrin
+      %br
+      %em ACS Nano
+      %br
+      2018
+  = link_to "More Publications", "#{http_prefix}publications/list", class: "more-link"
+
