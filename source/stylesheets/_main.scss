@@ -184,3 +184,17 @@ ul.unstyled {
 .pi-name {
   font-size: 24px;
 }
+
+@media #{$medium-up} {
+  .sidebar-right {
+    padding-left: 0 !important;
+
+    .callout {
+      border-left: 0;
+    }
+  }
+}
+
+.center {
+  text-align: center;
+}

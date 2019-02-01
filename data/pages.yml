@@ -4,12 +4,26 @@
     - title: Overview
       url: overview
 
+- title: Research
+  url: research
+  sub_pages:
+    - title: Research Overview
+      url: research-overview
+
+- title: Publications
+  url: publications
+  sub_pages:
+    - title: List
+      url: list
+
+- title: News
+  url: news
+  sub_pages:
+    - title: Recent News
+      url: recent
+
 - title: About
   url: about
   sub_pages:
-    - title: Sub page 13
-      url: sub-page-13
-    - title: Sub page 14
-      url: sub-page-14
-    - title: Sub page 15
-      url: sub-page-15
+    - title: Contact
+      url: contact
