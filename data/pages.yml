@@ -13,8 +13,12 @@
 - title: Publications
   url: publications
   sub_pages:
-    - title: List
-      url: list
+    - title: Journal Publications
+      url: journals
+    - title: Editorials
+      url: editorials
+    - title: Patents
+      url: patents
 
 - title: News
   url: news
