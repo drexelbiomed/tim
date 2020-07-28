@@ -1,0 +1,30 @@
+- month: July, 2020
+  news:
+    - text: The Drexel Immune Modulation & Engineering Symposium will be going virtual this year. <a href=' https://biomed.drexel.edu/immunesymposium/'>Registration coming soon!</a>
+      img: News%201.png
+- month: March, 2020
+  news:
+    - text: Shreya Soni officially joins the group for her PhD. Welcome, Shreya! 
+      img: 
+- month: January, 2020 
+  news:
+    - text: <a href="https://www.sciencedirect.com/science/article/pii/S2451945619304246">New article is out at <em>Cell Chemical Biology</em></a>, showing myeloid-targeted nanocarriers efficiently inhibit cIAP for cancer immunotherapy in mice.
+      img: News%202.jpg
+    - text: Chris joins <em>Science Translational Medicine</em> as an Associate Scientific Advisor! <br><br>Keep an eye out for upcoming <a href="https://stm.sciencemag.org/">Editor’s Choice highlights on the STM website</a> or under publications listed here on the lab webpage. 
+      img: News%204.jpeg
+- month: November, 2019
+  news: 
+      - text: <a href="https://www.sciencedirect.com/science/article/pii/S1043067919303314">New article is out at <em>Seminars in Thoracic and Cardiovascular Surgery</em></a> as part of continuing collaboration with the <a href="http://www.gormanresearch.com">Gorman Cardiovascular Research Group</a>, showing that injectable hydrogels prevent development of ischemic mitral regurgitation in large animal models of myocardial infarct.
+        img: News%203.jpg
+- month: October, 2019
+  news:
+    - text: Chris speaks at the BMES meeting in Philadelphia on supramolecular drug delivery platforms for cancer immunotherapy.
+      img: bmes.png
+    - text: Chris speaks at and co-chairs the <a href="https://biomed.drexel.edu/immunesymposium">Drexel Immune Modulation & Engineering Symposium</a> along with colleagues Kara Spiller and Yinghui Zhong. Many thanks to the amazing set of speakers and to all who were able to attend.
+      img: imes.png
+    - text: Chris’s review detailing methods of screening macrophage therapeutics is released in <a href="https://www.thno.org/v09p7714.pdf"><em>Theranostics</em></a>, as part of a <a href="https://www.thno.org/si/crit">special issue of Critical Reviews of Immunotheranostics</a>. As always, Theranostics is open access!.
+      img: rodell-theranostics-screening-macrophage.png
+    - text: We officially welcome our first round of students, including graduate students Shreya Sona, Abed Alsasa, and Jocelyn Kurtz as well as undergraduates Neha Nevasekar and Manny Patel. Welcome all to the group! <br><br>Now, we have some unpacking to do…
+      img: unpacking.png
+    - text: The Tissue Instructive Materials Lab is officially open in Bossone Hall. Drop in and say hello!
+      img: hello.png

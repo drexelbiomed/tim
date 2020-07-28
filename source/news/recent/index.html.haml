@@ -4,29 +4,15 @@ title: Recent News
 
 %h1= current_page.data.title
 
-%p 
-  %strong October, 2019 
-
-%p &bull; Chris speaks at the BMES meeting in Philadelphia on supramolecular drug delivery platforms for cancer immunotherapy.  
-%p.text-center= image_tag "bmes.png", style: "max-width: 300px;"
-%hr
-
-%p &bull; Chris speaks at and co-chairs the <a href="https://biomed.drexel.edu/immunesymposium">Drexel Immune Modulation & Engineering Symposium</a> along with colleagues Kara Spiller and Yinghui Zhong. Many thanks to the amazing set of speakers and to all who were able to attend.
-%p.text-center= image_tag "imes.png", style: "max-width: 300px;"
-%hr
-
-%p &bull; <a href="http://www.thno.org/v09p7714.htm">Dr. Rodell’s review detailing methods of screening macrophage therapeutics is released in a special issue of Theranostics</a>.
-%p.text-center= image_tag "rodell-theranostics-screening-macrophage.png", style: "max-width: 300px;"
-%hr
-
-%p We officially welcome our first round of students, including graduate students Shreya Sona, Abed Alsasa, and Jocelyn Kurtz as well as undergraduates Neha Nevasekar and Manny Patel. Welcome all to the group!  
-%p Now, we have some unpacking to do…. 
-%p.text-center= image_tag "unpacking.png", style: "max-width: 300px;"
-  
-%hr
-
-%p The Tissue Instructive Materials Lab is officially open in Bossone Hall. Drop in and say hello!
-%p.text-center= image_tag "hello.png", style: "max-width: 300px;"
+- data.news.each do |item|
+  %p
+    %strong= item.month
+  - item.news.each do |n|
+    %p.text-center
+      - if n.img.present?
+        = image_tag n.img, style: "max-width: 300px;"
+    %p= n.text
+    %hr
 
 %p
   %strong January, 2019 
