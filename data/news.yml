@@ -1,3 +1,31 @@
+- month: Coming Soon!
+  news: 
+    - text: The agenda is coming together for the 3rd Annual Immune Modulation and Engineering Symposium at Drexel, and I’m getting excited! Looking forward to another amazing lineup of speakers. Save the date (Dec. 8-10, 2021) and registration info will be coming soon. 
+      img: 
+- month: April, 2021
+  news: 
+    - text: Graduate student Arielle D’Elia joins the lab for her rotation, and BS/MS candidate Victor Mishin joins us in collaboration with the <a href="https://biomed.drexel.edu/labs/biocirc-lab/">BioCirc Research Lab</a>. A big welcome to you both! 
+      img: 
+    - text: Work from our lab to develop a geometrically tunable blood shunt for use in pediatric heart reconstruction surgeries has been generously funded by The Hartwell Foundation.
+      img: hartwell.png
+    - text: Congratulations to Shreya and Abed! Their review on supramolecular delivery in immune modulation is out in Frontiers in Chemistry (Link).  
+      img:
+- month: February, 2021
+  news:
+    - text: Chris is featured on the University of Pennsylvania Bioengineering Alumni webpage (<a href="https://be.seas.upenn.edu/alumni/">Link</a>). Thanks to our friends next door for the opportunity to share a bit about my experience in Philly! 
+      img:
+- month: January, 2021
+  news:
+    - text: Shreya’s first first-author review is out in Acta Biomaterialia (<a href="https://authors.elsevier.com/a/1cWH0_dd~9xTFB">Link</a>). Congrats Shreya!
+      img: news-shreya-1.png
+- month: December, 2020
+  news:
+    - text: A final manuscript to close out the year - Quantification of Cellular Drug Biodistribution Addresses Challenges in Evaluating In Vitro and In Vivo Encapsulated Drug Delivery. (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adtp.202000125#.X-lCykX53wo.twitter">Link</a>). Featured alongside other <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7187.hottopic-drugdelivery">Hot Topics in Drug Delivery</a> in Advanced Therapeutics. 
+      img: news-dec-2020.png
+- month: November, 2020
+  news:
+    - text: 'Had a blast with <a href="https://twitter.com/hashtag/imesdrexel?src=hash">#IMESDrexel</a>. A huge thanks to all who attended and contributed to make such a great symposium possible! We look forward to seeing you again next year!'
+      img: news-nov-2020.png
 - month: July, 2020
   news:
     - text: The Drexel Immune Modulation & Engineering Symposium will be going virtual this year. <a href=' https://biomed.drexel.edu/immunesymposium/'>Registration coming soon!</a>
@@ -5,7 +33,7 @@
 - month: March, 2020
   news:
     - text: Shreya Soni officially joins the group for her PhD. Welcome, Shreya! 
-      img: 
+      img: news-shreya-abed.png
 - month: January, 2020 
   news:
     - text: <a href="https://www.sciencedirect.com/science/article/pii/S2451945619304246">New article is out at <em>Cell Chemical Biology</em></a>, showing myeloid-targeted nanocarriers efficiently inhibit cIAP for cancer immunotherapy in mice.
