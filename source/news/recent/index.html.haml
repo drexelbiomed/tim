@@ -8,10 +8,10 @@ title: Recent News
   %p
     %strong= item.month
   - item.news.each do |n|
+    %p= n.text
     %p.text-center
       - if n.img.present?
         = image_tag n.img, style: "max-width: 300px;"
-    %p= n.text
     %hr
 
 %p

@@ -1,14 +1,38 @@
+- month: March, 2022 
+  news: 
+    - text: We wish a warm welcome to two rotating students! <br><br>Ken Kim, PhD student, joins us from the College of Medicine in the Department of Microbiology and Immunology in and Yagni Shah is an MS candidate in the Drug Discovery and Development (DDD) program. We look forward to having you both! 
+      img: 
+- month: February, 2022
+  news:
+    - text: PhD student Shreya Soni won first place in the Student E-Poster Competition at the American Association for the Advancement of Science (AAAS) Annual Meeting in the Developmental Biology, Genetics, and Immunology section for her work entitled The Identification and Targeted Delivery of Macrophage-Polarizing Drugs for Tissue Injury. (<a href="https://www.aaas.org/resources/2022-aaas-student-e-poster-competition-winners">Link</a>) <br><br>Congrats Shreya!!
+      img: empower.png
+- month: January, 2022
+  news:
+    - text: Chris is selected as a member of the Early Career Editorial Advisory Board for ACS Biomaterials Science & Engineering.
+      img: 
+- month: December, 2021
+  news:
+    - text: 'Thanks to everyone who attended and contributed to the symposium. A huge congratulations to all of our student presentation award winners at <a href="https://twitter.com/search?q=%23IMES2021&src=typed_query&f=top">#IMES2021</a>! We hope to see you again next year! (<a href="https://biomed.drexel.edu/immunesymposium/">Link</a>) '
+      img: imes2021.png
 - month: Coming Soon!
   news: 
     - text: The agenda is coming together for the 3rd Annual Immune Modulation and Engineering Symposium at Drexel, and I’m getting excited! Looking forward to another amazing lineup of speakers. Save the date (Dec. 8-10, 2021) and registration info will be coming soon. 
       img: 
+- month: October, 2021
+  news:
+    - text: Happy Halloween!
+      img: halloween-2021.png
+- month: August, 2021
+  news:
+    - text: Sylvia Cho finishes her summer as a STAR Scholar with a great showing at the Summer Showcase. She drew a crowd despite the heat. Thank you for all of your hard work Sylvia! 
+      img: sylvia-star-showcase.png
 - month: April, 2021
   news: 
     - text: Graduate student Arielle D’Elia joins the lab for her rotation, and BS/MS candidate Victor Mishin joins us in collaboration with the <a href="https://biomed.drexel.edu/labs/biocirc-lab/">BioCirc Research Lab</a>. A big welcome to you both! 
       img: 
-    - text: Work from our lab to develop a geometrically tunable blood shunt for use in pediatric heart reconstruction surgeries has been generously funded by The Hartwell Foundation.
+    - text: Work from our lab to develop a geometrically tunable blood shunt for use in pediatric heart reconstruction surgeries has been generously funded by <a href="https://thehartwellfoundation.com/2020/2020_Investigators.shtml">The Hartwell Foundation</a>. Congratulations to Dr. Josh Mell and the other Hartwell Investigators who are doing amazing work to improve healthcare outcomes for children. (<a href="https://drexel.edu/now/archive/2021/May/Drexel-Research-Awarded-for Potential-to-Improve-Heart-and Ear-Health-in-Children/">Press Release</a>)
       img: hartwell.png
-    - text: Congratulations to Shreya and Abed! Their review on supramolecular delivery in immune modulation is out in Frontiers in Chemistry (Link).  
+    - text: Congratulations to Shreya and Abed! Their review on supramolecular delivery in immune modulation is out in Frontiers in Chemistry (<a href="https://www.frontiersin.org/articles/10.3389/fchem.2021.658548/full">Link</a>).  
       img:
 - month: February, 2021
   news:
